@@ -1,7 +1,7 @@
 # collab-merger
 A Geometry Dash collab merger written on Python.
 
-STILL EXPERIMENTAL!
+**STILL EXPERIMENTAL!**
 
 # Install and use
 How?
