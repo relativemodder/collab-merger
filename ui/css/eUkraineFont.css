@@ -1,0 +1,98 @@
+@font-face{
+    font-family:eUkraine;
+    src:url(/font/e-Ukraine-Thin.otf);
+    font-weight:100;
+    font-style:normal;
+    font-display:swap
+}
+@font-face{
+    font-family:eUkraine;
+    src:url(/font/e-Ukraine-UltraLight.otf);
+    font-weight:200;
+    font-style:normal;
+    font-display:swap 
+}
+@font-face{
+    font-family:eUkraine;
+    src:url(/font/e-Ukraine-Light.otf);
+    font-weight:300;
+    font-style:normal;
+    font-display:swap 
+}
+@font-face{
+    font-family:eUkraine;
+    src:url(/font/e-Ukraine-Regular.otf);
+   font-weight:400;
+   font-style:normal;
+   font-display:swap
+}
+@font-face{
+   font-family:eUkraine;
+   src:url(/font/e-Ukraine-Medium.otf);
+   font-weight:500;
+   font-style:normal;
+   font-display:swap
+}
+@font-face{
+   font-family:eUkraine;
+   src:url(/font/e-Ukraine-Medium.otf);
+   font-weight:600;
+   font-style:normal;
+   font-display:swap
+}
+@font-face{
+   font-family:eUkraine;
+   src:url(/font/e-Ukraine-Bold.otf);
+   font-weight:700;
+   font-style:normal;
+   font-display:swap
+}
+@font-face{
+   font-family:eUkraineHead;
+   src:url(/font/e-UkraineHead-Thin.otf);
+   font-weight:100;
+   font-style:normal;
+   font-display:swap
+}
+@font-face{
+   font-family:eUkraineHead;
+   src:url(/font/e-UkraineHead-UltraLight.otf);
+   font-weight:200;
+   font-style:normal;
+   font-display:swap
+}
+@font-face{
+   font-family:eUkraineHead;
+   src:url(/font/e-UkraineHead-Light.otf);
+   font-weight:300;
+   font-style:normal;
+   font-display:swap
+}
+@font-face{
+   font-family:eUkraineHead;
+   src:url(/font/e-UkraineHead-Regular.otf);
+   font-weight:400;
+   font-style:normal;
+   font-display:swap
+}
+@font-face{
+   font-family:eUkraineHead;
+   src:url(/font/e-UkraineHead-Medium.otf);
+   font-weight:600;
+   font-style:normal;
+   font-display:swap
+}
+@font-face{
+   font-family:eUkraineHead;
+   src:url(/font/e-UkraineHead-Bold.otf);
+   font-weight:700;
+   font-style:normal;
+   font-display:swap
+}
+@font-face{
+   font-family:eUkraineHead;
+   src:url(/font/e-UkraineHead-NAME.otf);
+   font-weight:900;
+   font-style:normal;
+   font-display:swap
+}

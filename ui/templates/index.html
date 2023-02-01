@@ -1,0 +1,47 @@
+{% extends 'base.html' %}
+
+{% block workspace %}
+<div class="mb-3 underboard g-3">
+
+    <div class="row g-3">
+
+        <div class="col">
+            <div class="card" style="width: 18rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Overview</h5>
+
+                    <p class="card-text objects-count gradient">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                    <p class="card-text level-length">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+                    <div class="d-grid gap-2">
+                        <button type="button" class="btn btn-outline-dark reload-level-btn">Reload</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+
+    <div class="row g-3">
+        <div class="col">
+            <div class="card" style="width: 18rem;">
+                <div class="card-body d-grid gap-2">
+                    <h5 class="card-title">Loaded parts</h5>
+                    <p class="card-text">
+                        <em><small>You can import part from menu</small></em>
+                    </p>
+                    <div class="card-text d-flex">
+                        <select class="form-select parts-list" aria-label="Default select example">
+                        </select>
+                    </div>
+                    <div class="card-text d-flex d-grid">
+                        <button type="button" class="btn btn-outline-dark d-grid merge-part-btn">Merge into level</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+{% endblock %}

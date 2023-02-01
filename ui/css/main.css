@@ -1,0 +1,15 @@
+* {
+    font-family: eUkraine, Helvetica, Arial, sans-serif;
+}
+
+.underboard {
+    padding: 50px;
+}
+
+.fit-height {
+    max-height: 3em;
+}
+
+.dropdown-margin-right-10{
+    margin-right: 10px;
+}
